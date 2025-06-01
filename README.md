@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="centre" height="150" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
+<img align="centre" height="750" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
 
 ###
 
@@ -108,6 +108,74 @@
   <img src="https://streak-stats.demolab.com?user=shdbfrz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+## 🚀 Tech Stack Overview
+
+Hi, I'm Shadab Firoz — a passionate CSE (AI & ML) student who loves building intelligent systems and scalable AI products. Here's my modern tech stack with everything I work with:
+
+---
+
+### 💻 Languages
+
+* ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square\&logo=python\&logoColor=white) **Python** – AI, ML, Web Dev, Automation
+* ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square\&logo=java\&logoColor=white) **Java** – Android, Enterprise Apps
+* ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black) **JavaScript** – Web development
+* ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square\&logo=solidity\&logoColor=white) **Solidity** – Smart Contracts
+* ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white) **SQL** – Relational DBs
+* ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white) **HTML5**
+* ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white) **CSS3**
+
+### 🧠 AI/ML & Data Science
+
+* ![ML](https://img.shields.io/badge/-Machine%20Learning-0A192F?style=flat-square\&logo=scikit-learn\&logoColor=orange) Machine Learning
+* ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-000000?style=flat-square\&logo=pytorch\&logoColor=red) Deep Learning
+* ![NLP](https://img.shields.io/badge/-NLP-0096D6?style=flat-square\&logo=openai\&logoColor=white) NLP
+* ![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square\&logo=langchain\&logoColor=green) LangChain, LangGraph
+* ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white) TensorFlow
+* ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white) PyTorch
+* ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white) Scikit-learn
+* ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FCC624?style=flat-square\&logo=huggingface\&logoColor=black) Transformers
+
+### ☁️ Cloud Platforms
+
+* ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square\&logo=amazon-aws\&logoColor=white) AWS
+* ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square\&logo=microsoft-azure\&logoColor=white) Microsoft Azure
+* ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square\&logo=google-cloud\&logoColor=white) GCP
+
+### 🛠️ Frameworks & Tools
+
+* ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square\&logo=flask\&logoColor=white) Flask
+* ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django\&logoColor=white) Django
+* ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white) Docker
+* ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square\&logo=kubernetes\&logoColor=white) Kubernetes
+* ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white) Git
+
+### 🧰 Developer Tools
+
+* ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code\&logoColor=white) VS Code
+* ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square\&logo=pycharm\&logoColor=green) PyCharm
+* ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white) Jupyter Notebook
+* ![n8n](https://img.shields.io/badge/-n8n-FF6D00?style=flat-square\&logo=n8n\&logoColor=white) n8n Workflows
+
+### 🧮 Math Foundations
+
+* 📐 Linear Algebra
+* 📊 Probability & Statistics
+* ∫ Calculus
+
+### 🤖 Agentic AI & Workflows
+
+* 🧠 Agentic AI
+* 👥 Multi-Agent Systems
+* 🔎 RAG (Retrieval-Augmented Generation)
+* ⚙️ Event-Driven AI
+* 🧠 Memory & Tool Usage in Agents
+
+
+
+
+
+
+
 ###
 
 <br clear="both">
@@ -143,14 +211,27 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codepen logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  <a href="https://www.linkedin.com/in/shadab-firoz-38031a30b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/shdbfrz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="Twitter/X" />
+  </a>
+  <a href="https://github.com/shdbfrz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="25" alt="GitHub" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/shdbn61s/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=0F9D58&logoColor=white&style=for-the-badge" height="25" alt="GeeksforGeeks" />
+  </a>
+  <a href="https://leetcode.com/u/shdbfrz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&style=for-the-badge" height="25" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/Shadab153128" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="25" alt="HackerRank" />
+  </a>
+  <a href="mailto:shdbfrz@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="Gmail" />
+  </a>
 </div>
 
 ###
