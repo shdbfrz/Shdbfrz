@@ -1,4 +1,4 @@
-<p align="left"><h1 align="center">Hi 👋, I'm Shadab Firoz</h1><br><h3 align="center">🚀 On a mission to build intelligent systems and scalable products</h3></p>
+
 
 ###
 
