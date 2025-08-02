@@ -1,13 +1,4 @@
-
-
 ###
-
-<br clear="both">
-
-<img align="centre" height="750" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif"  />
-
-###
-
 <h4 align="left">👋 I'm Shadab Firoz<br>🎓 CSE (AI & ML) Student | 🧠 Machine Learning Enthusiast | 🌍 Open Source Contributor | 🛠️ AI Agent Builder<br><br>🧑‍💻 Who Am I?<br>🤖 Passionate about building intelligent systems using Machine Learning, AI, and Automation<br><br>🔭 Exploring the intersection of Large Language Models, Agents, and Workflow Automation<br><br>💡 Curious problem solver & lifelong learner<br><br>🌟 Aiming to create impactful solutions and contribute to the tech ecosystem<br><br>🚀 Currently Working On<br>🧠 Building and deploying ML/DL models for real-world use cases<br><br>🤖 Creating smart AI agents using LangChain, LangGraph, OpenAI, and n8n<br><br>⚙️ Automating workflows with AI + n8n (from scraping to intelligent alerts)<br><br>🧪 Experimenting with Retrieval-Augmented Generation (RAG) and context-aware systems<br><br>🧰 Working on open source projects and collaborative AI tooling<br><br>🏗️ Projects & Experience<br>📊 ML Projects: Regression, Classification, Recommenders, NLP, Chatbots<br><br>💬 Chatbot & AI Tools: Intelligent assistants using OpenAI + custom memory chains<br><br>📦 Open Source: Fixing bugs, resolving issues, and contributing PRs across GitHub<br><br>🌐 Full Stack: AI-integrated apps using React.js, Node.js, Firebase, MongoDB<br><br>🧠 Agents that think: Building multi-step AI decision systems with memory & context<br><br>💻 Tech Stack & Tools<br>Languages: 🐍 Python, ⚙️ JavaScript, 🖥️ C++, 🧮 SQL<br>AI/ML: Scikit-learn, Pandas, TensorFlow, PyTorch, HuggingFace 🤗<br>LLM Tools: Langchain 🦜, LangGraph 🕸️, OpenAI, Cohere, n8n ⚡<br>Databases: MongoDB 🍃, Firebase 🔥, MySQL 🐬<br>Cloud & Hosting: Vercel 🚀, Railway 🚆, Render 🌐, Netlify 🌍<br>DevOps: Git 🧬, Docker 🐳, Postman 📬, GitHub Actions 🔄<br><br>🌍 What I'm Open To<br>🤝 Contributing to Open Source<br><br>🧠 Collaborating on AI / ML / LLM / Automation Projects<br><br>📩 Internships or freelance in ML / AI / Backend<br><br>🌱 Learning from developers and researchers around the world</h4>
 
 ###
