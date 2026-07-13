@@ -26,12 +26,6 @@ I'm a CSE (AI & ML) student who enjoys working with data — cleaning it, analyz
 
 ---
 
-### 🎓 Education
-
-**B.Tech, Computer Science & Engineering (AI & ML)**
-_Add your college name, location, and expected graduation year here._
-Relevant coursework: Data Structures, DBMS, Statistics & Probability, Machine Learning
-
 ---
 
 ### 📚 Currently Learning / Working On
@@ -42,14 +36,6 @@ Relevant coursework: Data Structures, DBMS, Statistics & Probability, Machine Le
 - 🌐 Shipping small full-stack MERN projects to stay hands-on with web dev
 
 ---
-
-### 🏆 Achievements & Certifications
-
-> _Add your certifications, hackathon wins, or notable achievements here — this section carries a lot of weight for recruiters._
-
-- 🥇 _e.g. "Google Data Analytics Professional Certificate"_
-- 🥈 _e.g. "Runner-up, XYZ Hackathon 2025"_
-- 📜 _e.g. "SQL for Data Science — Coursera"_
 
 ---
 
