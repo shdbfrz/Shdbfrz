@@ -19,6 +19,94 @@
 
 ---
 
+
+---
+
+## 🟢 Open To
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO-FULL--TIME-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO-PART--TIME-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO-FREELANCE-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIP-purple?style=for-the-badge"/>
+</p>
+
+I'm actively looking to **collaborate, work, freelance, or contribute ** across the following roles:
+
+<p align="center">
+<img src="https://img.shields.io/badge/-MERN%20Stack%20Developer-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Software%20Engineer-4479A1?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Data%20Scientist-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Data%20Analyst-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/-Business%20Analyst-2c3e50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-AI%20Engineer-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LLM%20Engineer-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/-AI%20Full%20Stack%20Developer-8B5CF6?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shadab-firoz-38031a30b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:shdbfrz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/shdbfrz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://leetcode.com/u/shdbfrz/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+</p>
+
+---
+
+## 🧭 About Me
+
+I'm a **CSE (AI & ML)** student at **Allenhouse Institute of Technology, Kanpur** (AKTU), graduating 2027, working across AI/LLM engineering, data science & analytics, and full-stack development. I like picking up real problems — whether that's a freelance gig, a part-time collab, an internship, or an open-source issue.
+
+```javascript
+const shadab = {
+  location: "Kanpur, India",
+  openTo: ["Collaboration", "Full-time", "Part-time", "Freelance", "Internship"],
+  roles: [
+    "MERN Stack Developer",
+    "Software Engineer",
+    "Data Scientist",
+    "Data Analyst",
+    "Business Analyst",
+    "AI Engineer",
+    "LLM Engineer",
+    "AI Full Stack Developer"
+  ],
+  motto: "Give me a real problem, I'll bring the stack that fits it."
+};
+```
+
+---
+
+
+
+
+## 📌 Recent Work
+
+| Project | Stack | Description |
+|---|---|---|
+| 🔍 **Jailbreak Atlas** | Full-stack, Postgres | LLM jailbreak detection platform (deployed) |
+| 🤖 **AI-Powered Financial Analyst** | Python, LLMs, RAG | AI agent for financial data analysis & insight generation |
+| 📉 **Telecom Customer Churn Prediction** | Python, Scikit-learn | Predicts customer churn using classification models |
+| 🗳️ **MERN Poll Management System** | MongoDB, Express, React, Node | Full-stack real-time polling application |
+| 🌐 **Multilingual Translator** | Flask, Hugging Face | 30+ language translator (IBM GenAI internship) |
+
+---
+
+<div align="center">
+
+### 📬 Let's Work Together
+
+Whether it's a full-time role, a freelance project, a part-time collab, or just an interesting problem to solve — **reach out**.
+
+<p>
+  <a href="mailto:shdbfrz@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shadab-firoz-38031a30b/" target="_blank"><img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+</div>
+
 ## 🎯 Currently: Preparing for GSoC 2027
 
 I'm actively building toward a **Google Summer of Code** contribution — learning codebases, fixing issues, and submitting PRs to open source projects that intersect with AI/ML, data tooling, and developer infrastructure.
@@ -33,29 +121,6 @@ I'm actively building toward a **Google Summer of Code** contribution — learni
 | 🗓️ **Prep timeline** | See [GSoC Roadmap](https://github.com/shdbfrz/shdbfrz/wiki/GSoC-Roadmap) |
 
 ---
-
-## 🧭 About Me
-
-I'm a **CSE (AI & ML)** student at **Allenhouse Institute of Technology, Kanpur** (AKTU), graduating 2027 — building across the AI + data stack while learning to work inside real open-source codebases.
-
-```javascript
-const shadab = {
-  location: "Kanpur, India",
-  focus: "GSoC 2027 prep — reading codebases, fixing issues, submitting PRs",
-  roles: [
-    "AI Agent Developer",
-    "LLM Engineer",
-    "Data Scientist",
-    "ML Engineer",
-    "Data Analyst",
-    "MERN Stack Developer"
-  ],
-  openSource: ["scikit-learn (accessibility fix, WIP)", "polars (docs fix, merged)"],
-  currentlyLearning: ["Reading large OSS codebases", "Git workflows for OSS (rebase, upstream sync)", "Agentic workflows", "Advanced SQL"],
-  motto: "Learn in public. Contribute in public."
-};
-```
-
 ---
 
 ## 🧩 Skills by Role
@@ -157,16 +222,6 @@ const shadab = {
 
 ---
 
-## 📌 Pinned Projects
-
-| Project | Stack | Description |
-|---|---|---|
-| 🤖 **AI-Powered Financial Analyst** | Python, LLMs, RAG | AI agent for financial data analysis & insight generation |
-| 🔍 **Jailbreak Atlas** | Full-stack, Postgres | LLM jailbreak detection platform (deployed) |
-| 📉 **Telecom Customer Churn Prediction** | Python, Scikit-learn | Predicts customer churn using classification models |
-| 🧭 **Pathfinding Visualizer** | JS | Interactive algorithm visualizer |
-| 🎲 **Monte Carlo Simulation** | Python | Simulation-based estimation project |
-| 🗳️ **MERN Poll Management System** | MongoDB, Express, React, Node | Full-stack real-time polling application |
 
 ---
 # 🏆 Achievements & Certifications
