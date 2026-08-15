@@ -169,6 +169,29 @@ const shadab = {
 | 🗳️ **MERN Poll Management System** | MongoDB, Express, React, Node | Full-stack real-time polling application |
 
 ---
+# 🏆 Achievements & Certifications
+
+- 🥈 **EY Techathon 5.0** — Executive Pre-Final Round
+- 🎓 **IIT Kanpur** — Campus Ambassador
+- 📜 Google Data Analytics Professional Certificate
+- 📜 PyTorch & Deep Learning (Linux Foundation)
+- 📜 Neo4j Graph Data Science
+- 📜 IIT Guwahati — Time Series Analysis
+- 📜 Model Context Protocol — Advanced Topics
+- 📜 Securing LLM & NLP APIs
+- 🌱 Claude Partner Network member (via SF AI Labs)
+
+## Contact
+
+- **Email:** shdbfrz@gmail.com
+- **LinkedIn:** [linkedin.com/in/shadab-firoz-38031a30b](https://www.linkedin.com/in/shadab-firoz-38031a30b/)
+- **GitHub:** [github.com/shdbfrz](https://github.com/shdbfrz)
+- **LeetCode:** [leetcode.com/u/shdbfrz](https://leetcode.com/u/shdbfrz/)
+- **Twitter/X:** [x.com/shdbfrz](https://x.com/shdbfrz)
+
+---
+
+Open to: AI Agent Development · LLM/AI Engineering · Data Science · ML Engineering · internships, research roles, and open-source collaboration.
 
 <div align="center">
 
