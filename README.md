@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- 3D-style animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=230&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&animation=fadeIn" width="100%"/>
 
 <!-- 3D-looking bold name using a heavier futuristic font -->
-<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=900&size=48&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=900&height=80&lines=SHADAB+FIROZ" alt="Shadab Firoz 3D animated name"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=900&size=48&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=900&height=80&lines=SHADAB+FIROZ" alt="Shadab Firoz 3D animated name" style="margin-top:-25px;"/>
 
 <!-- Rotating role titles — same preference order -->
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=22&duration=2200&pause=600&color=B8F2FF&center=true&vCenter=true&repeat=true&width=950&height=45&lines=%F0%9F%A4%96+AI+Agents+Developer;%F0%9F%A7%A0+LLM+Engineer;%F0%9F%93%8A+Data+Scientist;%E2%9A%99%EF%B8%8F+ML+Engineer;%F0%9F%92%A1+AI+Engineer;%F0%9F%93%88+Data+Analyst+%2F+Business+Analyst;%F0%9F%92%BB+MERN+Stack+Developer" alt="animated roles"/>
