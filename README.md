@@ -1,98 +1,9 @@
 <div align="center">
 
+<img width="100%" alt="banner" src="https://github.com/user-attachments/assets/2a19c470-a05d-4a93-90fa-e5631be0e710" />
 
-<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#05070d"/>
-      <stop offset="50%" stop-color="#0b0f1e"/>
-      <stop offset="100%" stop-color="#070a14"/>
-    </linearGradient>
-
-    
-  </defs>
-
-  <!-- base -->
-  <rect width="1200" height="340" fill="url(#bg)"/>
-  <rect width="1200" height="340" fill="url(#grid)" opacity="0.5"/>
-
-  <!-- ambient glows -->
-  <circle cx="150" cy="90" r="220" fill="url(#glowCyan)"/>
-  <circle cx="1060" cy="260" r="240" fill="url(#glowPurple)"/>
-
-  <!-- LEFT: neural network motif -->
-  <g stroke="#2de3ff" stroke-width="1.4" opacity="0.75">
-    <line x1="70" y1="70" x2="140" y2="110"/>
-    <line x1="70" y1="150" x2="140" y2="110"/>
-    <line x1="70" y1="220" x2="140" y2="180"/>
-    <line x1="140" y1="110" x2="200" y2="90"/>
-    <line x1="140" y1="110" x2="200" y2="150"/>
-    <line x1="140" y1="180" x2="200" y2="150"/>
-    <line x1="140" y1="180" x2="200" y2="210"/>
-    <line x1="200" y1="90" x2="255" y2="130"/>
-    <line x1="200" y1="150" x2="255" y2="130"/>
-    <line x1="200" y1="150" x2="255" y2="175"/>
-    <line x1="200" y1="210" x2="255" y2="175"/>
-  </g>
-  <g fill="#00F5FF" filter="url(#softGlow)">
-    <circle cx="70" cy="70" r="4"/>
-    <circle cx="70" cy="150" r="4"/>
-    <circle cx="70" cy="220" r="4"/>
-    <circle cx="140" cy="110" r="5"/>
-    <circle cx="140" cy="180" r="5"/>
-    <circle cx="200" cy="90" r="4"/>
-    <circle cx="200" cy="150" r="5.5"/>
-    <circle cx="200" cy="210" r="4"/>
-    <circle cx="255" cy="130" r="5"/>
-    <circle cx="255" cy="175" r="5"/>
-  </g>
-
-  <!-- RIGHT: circuit motif -->
-  <g stroke="#a78bfa" stroke-width="1.4" opacity="0.8" fill="none">
-    <path d="M 1000 60 h 40 v 30 h 35"/>
-    <path d="M 1075 90 v 40 h -30 v 25"/>
-    <path d="M 1045 155 h 55 v -20"/>
-    <path d="M 960 100 h 25 v 45 h 30 v 30"/>
-    <path d="M 1120 200 h -35 v 25 h -40"/>
-  </g>
-  <g fill="#c4b5fd" filter="url(#softGlow)">
-    <circle cx="1000" cy="60" r="4"/>
-    <circle cx="1040" cy="60" r="4"/>
-    <circle cx="1075" cy="90" r="4"/>
-    <circle cx="1075" cy="130" r="4"/>
-    <circle cx="1045" cy="155" r="4"/>
-    <circle cx="1100" cy="135" r="4"/>
-    <circle cx="960" cy="100" r="4"/>
-    <circle cx="985" cy="145" r="4"/>
-    <circle cx="1015" cy="175" r="4"/>
-    <circle cx="1120" cy="200" r="4"/>
-    <circle cx="1085" cy="225" r="4"/>
-    <circle cx="1045" cy="225" r="4"/>
-  </g>
-
-
-
-  <!-- name -->
-  <text x="600" y="150" text-anchor="middle" font-family="Arial, sans-serif" font-weight="900" font-size="58" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="2">SHADAB FIROZ</text>
-
-  <!-- tagline -->
-  <text x="600" y="192" text-anchor="middle" font-family="'Courier New', monospace" font-size="19" fill="#B8F2FF" letter-spacing="1">AI Agents Developer &#8226; LLM Engineer &#8226; Open Source Contributor</text>
-
-  <!-- divider -->
-  <line x1="430" y1="215" x2="770" y2="215" stroke="#2de3ff" stroke-width="1" opacity="0.4"/>
-
-  <!-- quote -->
-  <text x="600" y="250" text-anchor="middle" font-family="'Courier New', monospace" font-style="italic" font-size="15" fill="#8ea2c9">"Every system starts as a stranger's codebase. Read it long enough, it becomes yours to improve."</text>
-</svg>
-
-<img width="1200" height="340" alt="banner" src="https://github.com/user-attachments/assets/2a19c470-a05d-4a93-90fa-e5631be0e710" />
-
-
-
-
-
-
-### Building AI Agents & Open Source Contributions
+<!-- Rotating role titles -->
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2200&pause=600&color=B8F2FF&center=true&vCenter=true&repeat=true&width=950&height=40&lines=%F0%9F%A4%96+AI+Agent+Developer;%F0%9F%A7%A0+LLM+Engineer;%F0%9F%93%8A+Data+Scientist;%E2%9A%99%EF%B8%8F+ML+Engineer;%F0%9F%93%88+Data+Analyst;%F0%9F%92%BB+MERN+Stack+Developer" alt="animated roles"/>
 
 *"Every system starts as a stranger's codebase. Read it long enough, it becomes yours to improve."*
 
@@ -132,10 +43,12 @@ const shadab = {
   location: "Kanpur, India",
   focus: "GSoC 2027 prep — reading codebases, fixing issues, submitting PRs",
   roles: [
-    "AI Agents Developer",
+    "AI Agent Developer",
     "LLM Engineer",
-    "Data Scientist / ML Engineer",
-    "Open Source Contributor"
+    "Data Scientist",
+    "ML Engineer",
+    "Data Analyst",
+    "MERN Stack Developer"
   ],
   openSource: ["scikit-learn (accessibility fix, WIP)", "polars (docs fix, merged)"],
   currentlyLearning: ["Reading large OSS codebases", "Git workflows for OSS (rebase, upstream sync)", "Agentic workflows", "Advanced SQL"],
@@ -145,11 +58,85 @@ const shadab = {
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Skills by Role
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,mongodb,mysql,postgres,cpp,git,github,figma,vscode,html,css,latex,docker,aws,gcp,linux,tensorflow&perline=10" />
-</p>
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**🤖 AI Agent Developer**
+<br/>
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/-MCP-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/-CrewAI%2FAutoGen-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/-RAG-4B0082?style=flat-square"/>
+
+**🧠 LLM Engineer**
+<br/>
+<img src="https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Prompt%20Engineering-4B0082?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Vector%20DBs-3742fa?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Fine--tuning-8e44ad?style=flat-square"/>
+
+**📊 Data Scientist**
+<br/>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Statistics-2c3e50?style=flat-square"/>
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+
+</td>
+<td valign="top" width="50%">
+
+**⚙️ ML Engineer**
+<br/>
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/-XGBoost-0E7C86?style=flat-square&logo=xgboost&logoColor=white"/>
+
+**📈 Data Analyst**
+<br/>
+<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
+
+**💻 MERN Stack Developer**
+<br/>
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+</tr>
+</table>
+
+**☁️ Cloud, Tools & DevOps**
+<br/>
+<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+
+---
+
+## 💼 Experience
+
+- 🌱 **Open Source Contributor** — Merged docs/lint fix in **Polars**; investigating an accessibility fix in **scikit-learn**. Full log → [Wiki](https://github.com/shdbfrz/shdbfrz/wiki/Open-Source-Contributions)
+- ☁️ **Salesforce Trainee** — Trained in Salesforce CRM fundamentals and the Salesforce ecosystem.
+- 🤖 **IBM Generative AI Virtual Internship** — Built a multilingual translator supporting 30+ languages using **Flask + Hugging Face**.
 
 ---
 
