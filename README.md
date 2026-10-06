@@ -1,257 +1,464 @@
-<div align="center"> 
+<div align="center">
 
 <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/2a19c470-a05d-4a93-90fa-e5631be0e710" />
 
-<!-- Rotating role titles -->
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2200&pause=600&color=B8F2FF&center=true&vCenter=true&repeat=true&width=950&height=40&lines=%F0%9F%A4%96+AI+Agent+Developer;%F0%9F%A7%A0+LLM+Engineer;%F0%9F%93%8A+Data+Scientist;%E2%9A%99%EF%B8%8F+ML+Engineer;%F0%9F%93%88+Data+Analyst;%F0%9F%92%BB+MERN+Stack+Developer" alt="animated roles"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2200&pause=600&color=B8F2FF&center=true&vCenter=true&repeat=true&width=950&height=40&lines=%F0%9F%A4%96+AI+Agent+Developer;%F0%9F%A7%A0+LLM+Engineer;%E2%9A%99%EF%B8%8F+ML+Engineer;%F0%9F%93%8A+Data+Scientist;%F0%9F%94%AC+AI%2FML+Researcher;%F0%9F%92%BB+AI+Full+Stack+Developer" alt="animated roles"/>
+
+### Building intelligent systems at the intersection of AI, ML, LLMs & software engineering.
 
 *"Every system starts as a stranger's codebase. Read it long enough, it becomes yours to improve."*
 
 <p>
-  <a href="https://www.linkedin.com/in/shadab-firoz-38031a30b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shdbfrz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/shdbfrz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://github.com/shdbfrz/shdbfrz/wiki" target="_blank"><img src="https://img.shields.io/badge/Wiki-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white" alt="Wiki"/></a>
-  <img src="https://komarev.com/ghpvc/?username=shdbfrz&label=PROFILE%20VIEWS&color=00838f&style=for-the-badge" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/shadab-firoz-38031a30b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shdbfrz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shdbfrz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/shdbfrz/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=shdbfrz&label=PROFILE%20VIEWS&color=00838f&style=for-the-badge" alt="profile views"/>
 
 </div>
 
 ---
 
+# 👋 About Me
 
----
+I'm **Shadab Firoz**, a **B.Tech Computer Science & Engineering student specializing in AI & ML**, based in India.
 
-## 🟢 Open To
+I work on practical problems across:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OPEN%20TO-FULL--TIME-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OPEN%20TO-PART--TIME-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OPEN%20TO-FREELANCE-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OPEN%20TO-INTERNSHIP-purple?style=for-the-badge"/>
-</p>
+- 🤖 **AI Agents & LLM Applications**
+- 🧠 **Machine Learning & Deep Learning**
+- 🔎 **LLM Security & Trustworthy AI**
+- 📊 **Data Science & Financial Analytics**
+- 🧩 **RAG, MCP & Tool-Calling Systems**
+- 💻 **AI-powered Full-Stack Applications**
+- 🔬 **AI/ML Research & Experimentation**
+- ⚙️ **Open-Source Software Development**
 
-I'm actively looking to **collaborate, work, freelance, or contribute ** across the following roles:
+I enjoy taking an idea from **research → prototype → working system → deployable application**.
 
-<p align="center">
-<img src="https://img.shields.io/badge/-MERN%20Stack%20Developer-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Software%20Engineer-4479A1?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Data%20Scientist-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Data%20Analyst-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/-Business%20Analyst-2c3e50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/-AI%20Engineer-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/-LLM%20Engineer-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/-AI%20Full%20Stack%20Developer-8B5CF6?style=for-the-badge"/>
-</p>
+```python
+shadab = {
+    "name": "Shadab Firoz",
+    "education": "B.Tech CSE (AI & ML)",
+    "location": "India",
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shadab-firoz-38031a30b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shdbfrz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/shdbfrz" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://leetcode.com/u/shdbfrz/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-</p>
+    "focus": [
+        "AI Agents",
+        "LLM Engineering",
+        "Machine Learning",
+        "Deep Learning",
+        "Data Science",
+        "LLM Security",
+        "AI Research"
+    ],
 
----
+    "interests": [
+        "RAG",
+        "MCP",
+        "Transformers",
+        "NLP",
+        "Computer Vision",
+        "Time Series",
+        "Financial ML",
+        "Trustworthy AI"
+    ],
 
-## 🧭 About Me
-
-I'm a **CSE (AI & ML)** student at **Allenhouse Institute of Technology, Kanpur** (AKTU), graduating 2027, working across AI/LLM engineering, data science & analytics, and full-stack development. I like picking up real problems — whether that's a freelance gig, a part-time collab, an internship, or an open-source issue.
-
-```javascript
-const shadab = {
-  location: "Kanpur, India",
-  openTo: ["Collaboration", "Full-time", "Part-time", "Freelance", "Internship"],
-  roles: [
-    "MERN Stack Developer",
-    "Software Engineer",
-    "Data Scientist",
-    "Data Analyst",
-    "Business Analyst",
-    "AI Engineer",
-    "LLM Engineer",
-    "AI Full Stack Developer"
-  ],
-  motto: "Give me a real problem, I'll bring the stack that fits it."
-};
+    "building": "Intelligent systems that solve real-world problems"
+}
 ```
 
 ---
 
+# 🚀 Featured Projects
 
+## 🛡️ Jailbreak Atlas
 
+**AI Security / LLM Security Platform**
 
-## 📌 Recent Work
+A platform focused on understanding and detecting **LLM jailbreaks, prompt attacks, and AI security risks**.
 
-| Project | Stack | Description |
-|---|---|---|
-| 🔍 **Jailbreak Atlas** | Full-stack, Postgres | LLM jailbreak detection platform (deployed) |
-| 🤖 **AI-Powered Financial Analyst** | Python, LLMs, RAG | AI agent for financial data analysis & insight generation |
-| 📉 **Telecom Customer Churn Prediction** | Python, Scikit-learn | Predicts customer churn using classification models |
-| 🗳️ **MERN Poll Management System** | MongoDB, Express, React, Node | Full-stack real-time polling application |
-| 🌐 **Multilingual Translator** | Flask, Hugging Face | 30+ language translator (IBM GenAI internship) |
+**Focus:**  
+LLM Security · Prompt Injection · Jailbreak Detection · NLP · AI Safety
 
 ---
 
-<div align="center">
+## 📈 AI-Powered Financial Analyst & Investment Decision Support System
 
-### 📬 Let's Work Together
+An end-to-end financial intelligence system combining **market data, technical indicators, machine learning, sentiment analysis, and LLM-based reasoning**.
 
-Whether it's a full-time role, a freelance project, a part-time collab, or just an interesting problem to solve — **reach out**.
+### Core Components
 
-<p>
-  <a href="mailto:shdbfrz@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shadab-firoz-38031a30b/" target="_blank"><img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+```text
+Market Data
+     ↓
+Data Processing
+     ↓
+Feature Engineering
+     ↓
+ML / Deep Learning Models
+     ↓
+Financial News + Sentiment
+     ↓
+Decision Support Engine
+     ↓
+RAG / LLM
+     ↓
+AI Financial Analyst
+     ↓
+Interactive Dashboard
+```
 
-</div>
-
-## 🎯 Currently: Preparing for GSoC 2027
-
-I'm actively building toward a **Google Summer of Code** contribution — learning codebases, fixing issues, and submitting PRs to open source projects that intersect with AI/ML, data tooling, and developer infrastructure.
-
-📖 **Full breakdown (target orgs, contribution log, prep roadmap) → [Wiki](https://github.com/shdbfrz/shdbfrz/wiki)**
-
-| | |
-|---|---|
-| 🌱 **Contribution stage** | Learning codebase conventions, fixing small/good-first-issues |
-| 🎯 **Target areas** | ML/data tooling (scikit-learn, polars-style projects), LLM/agent tooling (MCP, LangChain ecosystem) |
-| 📌 **Live PRs / Issues** | See [Open Source Contributions](https://github.com/shdbfrz/shdbfrz/wiki/Open-Source-Contributions) |
-| 🗓️ **Prep timeline** | See [GSoC Roadmap](https://github.com/shdbfrz/shdbfrz/wiki/GSoC-Roadmap) |
-
----
----
-
-## 🧩 Skills by Role
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**🤖 AI Agent Developer**
-<br/>
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/-MCP-000000?style=flat-square"/>
-<img src="https://img.shields.io/badge/-CrewAI%2FAutoGen-4B0082?style=flat-square"/>
-<img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/-RAG-4B0082?style=flat-square"/>
-
-**🧠 LLM Engineer**
-<br/>
-<img src="https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Prompt%20Engineering-4B0082?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Vector%20DBs-3742fa?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Fine--tuning-8e44ad?style=flat-square"/>
-
-**📊 Data Scientist**
-<br/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Statistics-2c3e50?style=flat-square"/>
-<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-
-</td>
-<td valign="top" width="50%">
-
-**⚙️ ML Engineer**
-<br/>
-<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/-XGBoost-0E7C86?style=flat-square&logo=xgboost&logoColor=white"/>
-
-**📈 Data Analyst**
-<br/>
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
-
-**💻 MERN Stack Developer**
-<br/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-</td>
-</tr>
-</table>
-
-**☁️ Cloud, Tools & DevOps**
-<br/>
-<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+**Tech:** Python · Pandas · NumPy · Scikit-learn · XGBoost · NLP · LLMs · RAG · React
 
 ---
 
-## 💼 Experience
+## 🤖 Business Operations MCP Server
 
-- 🌱 **Open Source Contributor** — Merged docs/lint fix in **Polars**; investigating an accessibility fix in **scikit-learn**. Full log → [Wiki](https://github.com/shdbfrz/shdbfrz/wiki/Open-Source-Contributions)
-- ☁️ **Salesforce Trainee** — Trained in Salesforce CRM fundamentals and the Salesforce ecosystem.
-- 🤖 **IBM Generative AI Virtual Internship** — Built a multilingual translator supporting 30+ languages using **Flask + Hugging Face**.
+An AI-agent infrastructure project using **Model Context Protocol (MCP)** to connect AI systems with business tools and operational data.
+
+**Focus:**  
+MCP · AI Agents · Tool Calling · RAG · Automation · Business Intelligence
 
 ---
 
-## 📊 GitHub Stats
+## 🚗 Driver Drowsiness Detection
+
+Computer vision system for detecting driver drowsiness using **YOLO-based object detection**.
+
+**Focus:**  
+Computer Vision · Object Detection · YOLO · Deep Learning · Real-Time AI
+
+---
+
+## 🌐 Multilingual AI Translator
+
+A multilingual translation application developed during an **IBM Generative AI internship**, supporting **30+ languages**.
+
+**Tech:** Flask · Hugging Face · NLP · Generative AI
+
+---
+
+## 📊 ML Momentum Trading Strategy
+
+Machine-learning-based momentum strategy for a portfolio of US equities.
+
+**Pipeline:**
+
+```text
+Historical Market Data
+        ↓
+Feature Engineering
+        ↓
+Technical Indicators
+        ↓
+ML Ensemble Models
+        ↓
+Trading Signals
+        ↓
+Backtesting
+        ↓
+Performance Analysis
+```
+
+**Focus:**  
+Financial ML · Time Series · Feature Engineering · Ensemble Learning · Quantitative Research
+
+---
+
+## 🧮 Monte Carlo Simulation Toolkit
+
+A toolkit for experimenting with **Monte Carlo methods, probabilistic simulations, and quantitative modeling**.
+
+**Focus:**  
+Probability · Statistics · Simulation · Quantitative Computing
+
+---
+
+## 🗺️ Pathfinding Visualizer
+
+Interactive visualization comparing graph-search algorithms such as:
+
+**Dijkstra vs A\***
+
+Focuses on understanding algorithmic behavior, path optimality, and computational complexity.
+
+---
+
+## 🚀 SpaceX Launch Success Prediction
+
+Machine learning project for predicting **launch success** using historical mission and launch data.
+
+**Focus:**  
+Data Cleaning · EDA · Feature Engineering · Classification · Model Evaluation
+
+---
+
+# 🧠 AI / ML Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shdbfrz&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="stats graph"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shdbfrz&theme=radical&hide_border=true" height="165" alt="streak stats"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-0E7C86?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shdbfrz&layout=compact&theme=radical&hide_border=true" alt="top langs"/>
-</p>
+### 🤖 Generative AI
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shdbfrz&theme=react-dark&hide_border=true" width="100%" alt="activity graph"/>
+
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-6C3483?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20Agents-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-4B0082?style=for-the-badge"/>
+
+</p>
+
+### 🧩 AI Agent Engineering
+
+- Model Context Protocol (MCP)
+- Tool Calling
+- RAG Pipelines
+- Agentic Workflows
+- LangChain
+- LangGraph
+- AI Automation
+- Vector Databases
+- LLM Evaluation
+- Prompt Engineering
+
+---
+
+# 📊 Data Science & Analytics
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-2C3E50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-34495E?style=for-the-badge"/>
+
+</p>
+
+**Areas I work with:**
+
+- Exploratory Data Analysis
+- Statistical Analysis
+- Feature Engineering
+- Time-Series Analysis
+- Predictive Modeling
+- Data Visualization
+- Financial Analytics
+- Business Analytics
+
+---
+
+# 💻 Software Engineering
+
+### Languages
+
+```text
+Python        ████████████████████
+C++           ███████████████
+JavaScript    ███████████████
+SQL           █████████████████
+R             ███████████
+```
+
+### Backend & Full Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+
+</p>
+
+### Developer Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+
 </p>
 
 ---
 
+# 🔬 Research Interests
+
+I'm particularly interested in research and experimentation around:
+
+- **Large Language Models**
+- **Transformer Architectures**
+- **Representation Learning**
+- **Natural Language Processing**
+- **LLM Security**
+- **Trustworthy & Safe AI**
+- **AI Agents**
+- **Retrieval-Augmented Generation**
+- **Financial Machine Learning**
+- **Time-Series Forecasting**
+- **Multimodal AI**
+- **Efficient AI Systems**
+
+I like projects where there is a combination of **research + engineering + measurable experimentation**.
 
 ---
+
+# 🛠️ What I Like Building
+
+```text
+AI Agents
+   ├── Tool Calling
+   ├── MCP Servers
+   ├── RAG
+   └── Autonomous Workflows
+
+LLM Applications
+   ├── Chatbots
+   ├── AI Analysts
+   ├── Security Systems
+   └── Domain-specific Assistants
+
+Machine Learning
+   ├── Predictive Models
+   ├── Time Series
+   ├── Computer Vision
+   └── Financial ML
+
+Data Systems
+   ├── ETL Pipelines
+   ├── Feature Engineering
+   ├── Analytics
+   └── Visualization
+
+AI Full Stack
+   ├── React
+   ├── APIs
+   ├── Databases
+   └── AI Integration
+```
+
+---
+
+# 💼 Experience & Activities
+
+- 🤖 **IBM Generative AI Virtual Internship** — Built a multilingual AI translator using Flask and Hugging Face.
+- ☁️ **Salesforce Trainee** — Salesforce CRM fundamentals and ecosystem training.
+- 🌱 **Open Source Contributor** — Contributions and development work across Python/data/ML-oriented projects.
+- 🧪 **AI/ML Project Development** — Building practical systems across LLMs, financial ML, computer vision, and AI agents.
+
+---
+
 # 🏆 Achievements & Certifications
 
 - 🥈 **EY Techathon 5.0** — Executive Pre-Final Round
 - 🎓 **IIT Kanpur** — Campus Ambassador
-- 📜 Google Data Analytics Professional Certificate
-- 📜 PyTorch & Deep Learning (Linux Foundation)
-- 📜 Neo4j Graph Data Science
-- 📜 IIT Guwahati — Time Series Analysis
-- 📜 Model Context Protocol — Advanced Topics
-- 📜 Securing LLM & NLP APIs
-- 🌱 Claude Partner Network member (via SF AI Labs)
-
-## Contact
-
-- **Email:** shdbfrz@gmail.com
-- **LinkedIn:** [linkedin.com/in/shadab-firoz-38031a30b](https://www.linkedin.com/in/shadab-firoz-38031a30b/)
-- **GitHub:** [github.com/shdbfrz](https://github.com/shdbfrz)
-- **LeetCode:** [leetcode.com/u/shdbfrz](https://leetcode.com/u/shdbfrz/)
-- **Twitter/X:** [x.com/shdbfrz](https://x.com/shdbfrz)
+- 📜 **Google Data Analytics Professional Certificate**
+- 📜 **PyTorch & Deep Learning** — Linux Foundation
+- 📜 **Neo4j Graph Data Science**
+- 📜 **IIT Guwahati** — Time Series Analysis
+- 📜 **Model Context Protocol — Advanced Topics**
+- 📜 **Securing LLM & NLP APIs**
 
 ---
 
-Open to: AI Agent Development · LLM/AI Engineering · Data Science · ML Engineering · internships, research roles, and open-source collaboration.
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shdbfrz&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shdbfrz&theme=radical&hide_border=true" height="165"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shdbfrz&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shdbfrz&theme=react-dark&hide_border=true" width="100%"/>
+
+</p>
+
+---
+
+# 🤝 Open To
+
+I'm interested in:
+
+- 🤖 AI / LLM Engineering
+- 🧠 Machine Learning Engineering
+- 🔬 AI/ML Research
+- 📊 Data Science & Analytics
+- 🧩 AI Agent Development
+- 🛡️ LLM Security
+- 💻 AI Full-Stack Development
+- 🌱 Open-Source Collaboration
+- 🚀 AI/ML Startup Projects
+- 💼 Internships & Full-Time Opportunities
+
+---
+
+# 📬 Let's Connect
+
+<p align="center">
+
+<a href="mailto:shdbfrz@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shadab-firoz-38031a30b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shdbfrz">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/shdbfrz/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-📖 **[Explore the full Wiki →](https://github.com/shdbfrz/shdbfrz/wiki)** for GSoC roadmap, detailed OSS contributions, achievements, and resume.
+### 🚀 Build. Experiment. Research. Ship.
 
-⭐ **If you like my work, consider starring my repositories!**
+**AI Engineering · Machine Learning · LLMs · Agents · Data · Research**
+
+⭐ If you find my projects useful, consider starring the repositories.
 
 </div>
