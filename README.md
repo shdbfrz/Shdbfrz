@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/2a19c470-a05d-4a93-90fa-e5631be0e710" />   
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2200&pause=600&color=B8F2FF&center=true&vCenter=true&repeat=true&width=950&height=40&lines=%F0%9F%A4%96+AI+Agent+Developer;%F0%9F%A7%A0+LLM+Engineer;%E2%9A%99%EF%B8%8F+ML+Engineer;%F0%9F%93%8A+Data+Scientist;%F0%9F%94%AC+AI%2FML+Researcher;%F0%9F%92%BB+AI+Full+Stack+Developer" alt="animated roles"/>
